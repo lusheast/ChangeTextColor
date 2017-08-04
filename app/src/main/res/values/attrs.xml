@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChangeTextColor">
+        <!--普通颜色-->
+        <attr name="normalColor" format="color"/>
+        <!--变化的颜色-->
+        <attr name="changeColor" format="color"/>
+    </declare-styleable>
+</resources>
